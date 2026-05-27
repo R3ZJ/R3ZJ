@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blazor & SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/R3ZJ](https://github.com/R3ZJ)
+- 👨‍💻 All of my projects are available at [https://github.com/R3ZJ?tab=repositories](https://github.com/R3ZJ?tab=repositories)
 
 - 💬 Ask me about **C#, .Net, HTML,CSS and PowerShell!**
 
